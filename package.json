@@ -1,0 +1,30 @@
+{
+  "name": "slate-hyperscript-fork",
+  "description": "A hyperscript helper for creating Slate documents.",
+  "version": "0.57.1",
+  "private": true,
+  "license": "MIT",
+  "repository": "",
+  "dependencies": {
+    "is-plain-object": "^3.0.0"
+  },
+  "devDependencies": {
+    "slate": "^0.57.1"
+  },
+  "peerDependencies": {
+    "slate": ">=0.55.0"
+  },
+  "umdGlobals": {
+    "slate": "Slate"
+  },
+  "keywords": [
+    "deserialize",
+    "h",
+    "html",
+    "hyperscript",
+    "jsx",
+    "serialize",
+    "slate",
+    "xml"
+  ]
+}
