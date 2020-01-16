@@ -3,7 +3,7 @@
   "description": "A hyperscript helper for creating Slate documents.",
   "version": "0.57.1",
   "private": true,
-  "license": "MIT",
+  "main": "src/index.ts",
   "repository": "",
   "dependencies": {
     "is-plain-object": "^3.0.0"
